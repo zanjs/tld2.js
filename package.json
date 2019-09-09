@@ -55,7 +55,7 @@
     ]
   },
   "dependencies": {
-    "punycode": "^1.4.1"
+    "punycode": "^2.1.1"
   },
   "devDependencies": {
     "benchmark": "^2.1.4",
@@ -63,8 +63,8 @@
     "expect.js": "^0.3.1",
     "github-changes": "^1.0.0",
     "jshint": "^2.5.1",
-    "mocha": "^3.5.0",
-    "nyc": "^11.1.0",
+    "mocha": "^6.2.0",
+    "nyc": "^14.1.1",
     "phantomjs-prebuilt": "^2.1.15",
     "testling": "^1.7.0"
   },
