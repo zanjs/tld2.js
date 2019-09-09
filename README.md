@@ -1,5 +1,7 @@
 # tld.js [![Build Status][badge-ci]](http://travis-ci.org/oncletom/tld.js) ![][badge-downloads]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/tld2.js.svg)](https://greenkeeper.io/)
+
 > `tld.js` is a Node.js module written in JavaScript to work against complex domain names, subdomains and well-known TLDs.
 
 It answers with accuracy to questions like _what is `mail.google.com` domain?_,  _what is `a.b.ide.kyoto.jp` subdomain?_ and _is `https://big.data` TLD a well-known one?_.
